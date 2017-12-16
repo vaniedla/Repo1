@@ -6,7 +6,7 @@ public class welcome {
 		System.out.println("welcome to devopes");
 		System.out.println("welcome");
 		// TODO Auto-generated method stub
-
+		System.out.println("welcome to devopes");
 	}
 
 }
